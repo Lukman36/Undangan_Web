@@ -36,8 +36,8 @@ html {
 
 
 .hero {
-  background-image: url(https://pixabay.com/get/gb1d5a3f9e3b12226274cc40071fb072eb28826cf4ab94e6457ecb1213c24e3ca036a2034dd247abeed804676b26ca989.jpg);
-  background: linear-gradient(rgba(109, 152, 153, 0.65), rgba(109, 144, 153, 0.65)), rgba(0, 0, 0, 0.55) url(https://pixabay.com/get/gb1d5a3f9e3b12226274cc40071fb072eb28826cf4ab94e6457ecb1213c24e3ca036a2034dd247abeed804676b26ca989.jpg) no-repeat;
+  background-image: url(/css/japanese-cherry-blossom.jpg);
+  background: linear-gradient(rgba(109, 152, 153, 0.65), rgba(109, 144, 153, 0.65)), rgba(0, 0, 0, 0.55) url(/css/japanese-cherry-blossom.jpg) no-repeat;
   background-attachment: fixed;
   background-size: cover;
   color: white;
